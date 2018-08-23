@@ -5,6 +5,8 @@ Current Module Version: 1.006
 - Current Stock Column for Batchlist
 - Minor Validation
 
+- note: PROD page template item Attribute Machine must be assigned and also enabled (even if you are not using any product attributes in your store.
+
 ## UPDATING FROM 1.004 AND BELOW
 Please Change the following page codes:
 - `WatilistEmailTemplate` TO `WaitlistEmailTemplate`
